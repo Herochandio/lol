@@ -1,4 +1,4 @@
-
+"herochandio
 
 	"name": "python-live-coding",	"publisher": "CodeJunkie",
 
