@@ -1,4 +1,4 @@
-{ from hero chandio import python2
+
 
 	"name": "python-live-coding",	"publisher": "CodeJunkie",
 
